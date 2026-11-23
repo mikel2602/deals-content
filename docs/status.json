@@ -1,0 +1,26 @@
+{
+ "ran_at": "2026-11-23T19:06:55Z",
+ "sources": {
+  "woot": {
+   "ok": false,
+   "error": "Woot feed page 1: 403 ForbiddenException {\"message\":\"Forbidden\"}",
+   "kept": 0
+  },
+  "walmart": {
+   "ok": true,
+   "cards": 100
+  },
+  "ebay": {
+   "ok": true,
+   "cards": 16
+  }
+ },
+ "pictures": {
+  "reader": true,
+  "read": 26,
+  "kept": 114,
+  "dropped": 2
+ },
+ "total": 116,
+ "published": true
+}
