@@ -1,9 +1,9 @@
 {
- "ran_at": "2026-11-23T19:06:55Z",
+ "ran_at": "2026-11-23T20:16:12Z",
  "sources": {
   "woot": {
    "ok": false,
-   "error": "Woot feed page 1: 403 ForbiddenException {\"message\":\"Forbidden\"}",
+   "error": "WOOT_KEY is not set",
    "kept": 0
   },
   "walmart": {
@@ -12,15 +12,15 @@
   },
   "ebay": {
    "ok": true,
-   "cards": 16
+   "cards": 23
   }
  },
  "pictures": {
   "reader": true,
-  "read": 26,
-  "kept": 114,
+  "read": 28,
+  "kept": 120,
   "dropped": 2
  },
- "total": 116,
+ "total": 123,
  "published": true
 }
